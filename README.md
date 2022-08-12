@@ -22,7 +22,7 @@
 - php artisan serve
 
 
-#These are the following APIs with unit tests
+## These are the following APIs with unit tests
 
 ### /api/login - Login API that can access to all APIs. 
 ### /api/register - Register API that can generate an authentication token. 
