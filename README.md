@@ -8,9 +8,8 @@
 
 ### Run in the command:
 - composer install
-- composer require laravel/sanctum
-- php artisan key:generate
 - copy .env.example .env
+- php artisan key:generate
 
 
 ### Create a database named 'customercarsapi'
